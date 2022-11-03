@@ -1,0 +1,2 @@
+print("This is the data set from UCI")
+print("Taken raw data converted to csv and then to sql table")
